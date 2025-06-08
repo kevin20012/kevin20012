@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Park%20JunHyung&fontAlign=75&fontSize=50&fontAlignY=30&desc=AI%20Developer&descAlign=89&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=Park%20JunHyung&fontAlign=75&fontSize=50&fontAlignY=30&desc=AI%20Developer&descAlign=89&descSize=18)
 
 # 👋 Hi! I'm JunHyung!
 I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with AI.
