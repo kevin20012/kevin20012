@@ -1,8 +1,17 @@
 <div align='center'>
+
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Park%20JunHyung&fontAlign=75&fontSize=50&fontAlignY=36&desc=AI%20Developer&descAlign=89&descSize=18)
+
+# 👋 Hi! I'm JunHyung!
+I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with AI.
+
+## 🛠️ AI Skills 🛠️
+<p>Computer Vision - Classification, Segmentation, Anomaly Detection, Digital Image Processing</p>
+<p>NLP - Transformer, LSTM, LLM Finetuning, RAG</p>
+<p>Generative AI - Diffusion, Image Editing using Diffusion</p>
   
-<h3 align="center" style="text-weight:bold;">🚀 Tech Stack</h3>
+## 🚀 Tech Stack 🚀
 <p align="center">
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp
