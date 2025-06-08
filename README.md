@@ -7,9 +7,9 @@
 I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with AI.
 
 ## 🛠️ AI Skills 🛠️
-<p>Computer Vision - Classification, Segmentation, Anomaly Detection, Digital Image Processing</p>
-<p>NLP - Transformer, LSTM, LLM Finetuning, RAG</p>
-<p>Generative AI - Diffusion, Image Editing using Diffusion</p>
+<p><bold>Computer Vision</bold> - Classification, Segmentation, Anomaly Detection, Digital Image Processing</p>
+<p><bold>NLP</bold> - Transformer, LSTM, LLM Finetuning, RAG</p>
+<p><bold>Generative AI</bold> - Diffusion, Image Editing using Diffusion</p>
   
 ## 🚀 Tech Stack 🚀
 <p align="center">
