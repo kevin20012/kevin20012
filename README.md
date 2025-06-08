@@ -1,18 +1,17 @@
-<div align='center'>
-
-  
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Park%20JunHyung&fontAlign=75&fontSize=50&fontAlignY=36&desc=AI%20Developer&descAlign=89&descSize=18)
 
 # 👋 Hi! I'm JunHyung!
 I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with AI.
 
 ## 🛠️ AI Skills 🛠️
-<p><bold>Computer Vision</bold> - Classification, Segmentation, Anomaly Detection, Digital Image Processing</p>
-<p><bold>NLP</bold> - Transformer, LSTM, LLM Finetuning, RAG</p>
-<p><bold>Generative AI</bold> - Diffusion, Image Editing using Diffusion</p>
+**Computer Vision** - Classification, Segmentation, Anomaly Detection, Digital Image Processing
+
+**NLP** - Transformer, LSTM, LLM Finetuning, RAG
+
+**Generative AI** - Diffusion, Image Editing using Diffusion
   
 ## 🚀 Tech Stack 🚀
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
@@ -30,8 +29,8 @@ I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with
   <img src="https://img.shields.io/badge/Git-blue?style=flat-square&logo=Git&logoColor=F05032"/></a>
 </p>
 
+
 ![](https://github.com/kevin20012/github-stats-transparent/blob/output/generated/overview.svg)
 ![](https://github.com/kevin20012/github-stats-transparent/blob/output/generated/languages.svg)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin20012)](https://solved.ac/kevin20012/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin20012)](https://solved.ac/kevin20012/)
 
-</div>
