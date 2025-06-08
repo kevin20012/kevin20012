@@ -32,5 +32,5 @@ I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with
 
 ![](https://github.com/kevin20012/github-stats-transparent/blob/output/generated/overview.svg)
 ![](https://github.com/kevin20012/github-stats-transparent/blob/output/generated/languages.svg)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin20012)](https://solved.ac/kevin20012/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin20012)
 
