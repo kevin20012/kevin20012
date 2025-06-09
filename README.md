@@ -29,8 +29,10 @@ I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with
   <img src="https://img.shields.io/badge/Git-blue?style=flat-square&logo=Git&logoColor=F05032"/></a>
 </p>
 
+<p>
+  <img src='https://github.com/kevin20012/github-stats-transparent/blob/output/generated/overview.svg' style='width:300px; height:180px'/>
+  <img src='https://github.com/kevin20012/github-stats-transparent/blob/output/generated/languages.svg' style='width:300px; height:180px'/>
+  <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin20012' style='width:300px; height:175px;'/>
+</p>
 
-![](https://github.com/kevin20012/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/kevin20012/github-stats-transparent/blob/output/generated/languages.svg)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin20012)
 
