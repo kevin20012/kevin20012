@@ -32,7 +32,7 @@ I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with
 <p>
   <img src='https://github.com/kevin20012/github-stats-transparent/blob/output/generated/overview.svg' style='width:280px;'/>
   <img src='https://github.com/kevin20012/github-stats-transparent/blob/output/generated/languages.svg' style='width:280px;'/>
-  <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin20012' style='width:280px;height:160px;'/>
+  <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin20012' style='width:280px;'/>
 </p>
 
 
