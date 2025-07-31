@@ -3,6 +3,8 @@
 # 👋 Hi! I'm JunHyung!
 I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with AI.
 
+[More Detail for CV](https://junhyung0112.notion.site/)
+
 ## 🛠️ Skills 🛠️
 **Generative AI** Diffusion, Image Editing using Diffusion  
 
