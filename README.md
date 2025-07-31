@@ -15,8 +15,10 @@ I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with
 ## 🌳 Projects 🌳
 ### ⭐️ A Plug-and-Play Approach for Robust Image Editing in Text-to-Image Diffusion Models
 **🏅Accepted at the ICCV Workshop MMFM4 2025**  
+<p align='center'>
+    <img src="https://github.com/kevin20012/ICCVW-RLI/raw/main/asset/first_figure.jpg" style="width:400px;">  
+</p>
 
-<img src="https://github.com/kevin20012/ICCVW-RLI/raw/main/asset/first_figure.jpg" style="width:400px;">  
 
 [More Detail](https://github.com/kevin20012/ICCVW-RLI)  
 
