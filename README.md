@@ -16,7 +16,7 @@ I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with
 ### ⭐️ A Plug-and-Play Approach for Robust Image Editing in Text-to-Image Diffusion Models
 **🏅Accepted at the ICCV Workshop MMFM4 2025**  
 <p align='center'>
-    <img src="https://github.com/kevin20012/ICCVW-RLI/raw/main/asset/first_figure.jpg" style="width:400px;">  
+    <img src="https://github.com/kevin20012/ICCVW-RLI/raw/main/asset/first_figure.jpg" style="width:500px;">  
 </p>
 
 
@@ -24,9 +24,9 @@ I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with
 
 ### ⭐️ Robust Defect Image Synthesis Using Null Embedding Optimization for Industrial Applications
 **🔍 currently under review at Pattern Recognition(PR) 2025**  
-
-<img src="https://github.com/kevin20012/Improving-Segmentation-Using-Augmentation-Data-Made-by-SDXL/raw/main/readme_img/aug_defect.png" style="width:400px;">  
-
+<p align='center'>
+    <img src="https://github.com/kevin20012/Improving-Segmentation-Using-Augmentation-Data-Made-by-SDXL/raw/main/readme_img/aug_defect.png" style="width:400px;">  
+</p>
 [More Detail](https://github.com/kevin20012/Improving-Segmentation-Using-Augmentation-Data-Made-by-SDXL)  
 
 ### ⭐️ Fine-tuning LLMs for QA Tasks on Economic Newspapers
@@ -45,13 +45,12 @@ I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with
 [More Detail](https://github.com/kevin20012/Legal-Agent-with-gpt-4o-using-RAG)  
 
 ### ⭐️ Classification Multiple Users using Keystroke Dynamics with a Transformer
-
-<img src="https://github.com/kevin20012/KeystrokeDynamics-With-Transformer/blob/main/assets/predict.gif" style="width:300px;">
-
+<p align='center'>
+    <img src="https://github.com/kevin20012/KeystrokeDynamics-With-Transformer/blob/main/assets/predict.gif" style="width:300px;">
+</p>
 [More Detail](https://github.com/kevin20012/KeystrokeDynamics-With-Transformer) 
 
 ### ⭐️ Implemented various structured light pattern techniques (Gray Code, Sinusoidal, one line scanning) and developed anomaly detection model for early Sinkhole Detection using Depth Maps.**  
-
 <table>
     <tr >
         <th></th>
