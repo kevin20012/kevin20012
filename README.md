@@ -19,7 +19,6 @@ I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with
     <img src="https://github.com/kevin20012/ICCVW-RLI/raw/main/asset/first_figure.jpg" style="width:500px;">  
 </p>
 
-
 [More Detail](https://github.com/kevin20012/ICCVW-RLI)  
 
 ### ⭐️ Robust Defect Image Synthesis Using Null Embedding Optimization for Industrial Applications
@@ -27,6 +26,7 @@ I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with
 <p align='center'>
     <img src="https://github.com/kevin20012/Improving-Segmentation-Using-Augmentation-Data-Made-by-SDXL/raw/main/readme_img/aug_defect.png" style="width:400px;">  
 </p>
+
 [More Detail](https://github.com/kevin20012/Improving-Segmentation-Using-Augmentation-Data-Made-by-SDXL)  
 
 ### ⭐️ Fine-tuning LLMs for QA Tasks on Economic Newspapers
