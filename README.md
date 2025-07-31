@@ -48,6 +48,7 @@ I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with
 <p align='center'>
     <img src="https://github.com/kevin20012/KeystrokeDynamics-With-Transformer/blob/main/assets/predict.gif" style="width:300px;">
 </p>
+
 [More Detail](https://github.com/kevin20012/KeystrokeDynamics-With-Transformer) 
 
 ### ⭐️ Implemented various structured light pattern techniques (Gray Code, Sinusoidal, one line scanning) and developed anomaly detection model for early Sinkhole Detection using Depth Maps.**  
