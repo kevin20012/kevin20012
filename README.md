@@ -3,12 +3,42 @@
 # 👋 Hi! I'm JunHyung!
 I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with AI.
 
-## 🛠️ AI Skills 🛠️
-**Computer Vision** - Classification, Segmentation, Anomaly Detection, Digital Image Processing
+## 🛠️ Skills 🛠️
+**Generative AI** Diffusion, Image Editing using Diffusion  
 
-**NLP** - Transformer, LSTM, LLM Finetuning, RAG
+**Computer Vision** Classification, Segmentation, Anomaly Detection, Digital Image Processing
 
-**Generative AI** - Diffusion, Image Editing using Diffusion
+**NLP** LLM Finetuning, RAG
+
+**Time-series model** Transformer, LSTM    
+
+## 🌳 Projects 🌳
+**⭐️ A Plug-and-Play Approach for Robust Image Editing in Text-to-Image Diffusion Models**  
+**- 🏅Accepted at the ICCV Workshop MMFM4 2025**  
+<img src="https://github.com/kevin20012/ICCVW-RLI/raw/main/asset/first_figure.jpg" style="width:400px;">  
+[More Detail](https://github.com/kevin20012/ICCVW-RLI)  
+
+**⭐️ Robust Defect Image Synthesis Using Null Embedding Optimization for Industrial Applications**  
+**- 🔍 currently under review at Pattern Recognition(PR) 2025**  
+<img src="https://github.com/kevin20012/Improving-Segmentation-Using-Augmentation-Data-Made-by-SDXL/raw/main/readme_img/aug_defect.png" style="width:400px;">  
+[More Detail](https://github.com/kevin20012/Improving-Segmentation-Using-Augmentation-Data-Made-by-SDXL)  
+
+**⭐️ Fine-tuning LLMs for QA Tasks on Economic Newspapers**  
+**- 🏅Excellence Award, 2024 Inha AI Challenge**  
+[More Detail](https://github.com/kevin20012/LLM-Finetuning-for-Economic-QA-System)  
+
+**⭐️ Implemented Legal Agent with LLM using RAG**  
+[More Detail](https://github.com/kevin20012/Legal-Agent-with-gpt-4o-using-RAG)  
+
+**⭐️ Classification Multiple Users using Keystroke Dynamics with a Transformer**  
+[More Detail](https://github.com/kevin20012/KeystrokeDynamics-With-Transformer) 
+
+**⭐️ Implemented various structured light pattern techniques (Gray Code, Sinusoidal, one line scanning)**  
+**and developed anomaly detection model for early Sinkhole Detection using Depth Maps.**  
+[SL-based-3D-Scanning](https://github.com/kevin20012/Structured-Light-based-3D-Scanning)  
+[3D-Cloud-SinkHole-Anomaly-Detector](https://github.com/kevin20012/3D-Cloud-SinkHole-Detector-with-VAE)
+
+
   
 ## 🚀 Tech Stack 🚀
 <p>
