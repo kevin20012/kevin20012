@@ -3,7 +3,7 @@
 # 👋 Hi! I'm JunHyung!
 I'm an <bold>AI Engineer</bold> who wants to make the world more convenient with AI.
 
-[My Blog](https://junhyung0112.github.io/)
+<a href="https://junhyung0112.github.io/"><img src="https://github.com/kevin20012/kevin20012.github.io/blob/main/site/images/logo.svg"></a>
 
 ## 🛠️ Skills 🛠️
 **Generative AI** Diffusion, Image Editing using Diffusion  
